@@ -317,12 +317,8 @@ public class Main {
         //#carpateshelp
         api.addMessageCreateListener(event -> {
             if (!event.getMessageAuthor().isBotUser()&&event.getMessageContent().trim().equals("#carpateshelp")){
-
-                    if(CarpatesHelp.isNextUse()){
                         event.getMessage().reply(CarpatesHelp.getEmbed());
                         CarpatesHelp.setNextUse();
-                    }
-
             }
         });
 
