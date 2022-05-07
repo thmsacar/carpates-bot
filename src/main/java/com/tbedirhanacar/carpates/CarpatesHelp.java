@@ -2,11 +2,7 @@ package com.tbedirhanacar.carpates;
 
 import org.javacord.api.entity.message.embed.EmbedBuilder;
 
-import java.time.LocalDateTime;
-
 public class CarpatesHelp {
-
-    private static LocalDateTime nextUse = LocalDateTime.now();
 
     private static EmbedBuilder embed = new EmbedBuilder()
             .setAuthor("Carpates",null,"https://cdn.discordapp.com/attachments/969320849209442334/969935335452737596/addon_uploads_1551561734_1740927513.jpg")
@@ -18,17 +14,5 @@ public class CarpatesHelp {
 
     public static EmbedBuilder getEmbed() {
         return embed;
-    }
-
-    private static LocalDateTime getNextUse() {
-        return nextUse;
-    }
-
-    public static void setNextUse(){
-        nextUse = LocalDateTime.now().plusMinutes(1);
-    }
-
-    public static boolean isNextUse(){
-        return LocalDateTime.now().isAfter(getNextUse());
     }
 }
