@@ -3,7 +3,7 @@
 </p>
 
 # **Carpates Bot**
-Carpates is a Discord bot I made on request of a friend of mine. The bot is named after my friend whose nickname is Carpates as well.
+Carpates is a Discord bot I made for a Discord server I joint. After a while I decided to make the bot public.
 
 The bot uses Javacord which is a Java library made for creating Discord bots. It's features are so simple. Once you invite the bot it will send memes whenever you write #carpatesmeme. Though I prefer to call them "memes" they are more of "shitposts".
 
@@ -11,9 +11,9 @@ The bot also has #carpatesflood command which makes bot send "copypasta"s. But t
 
 ## Below are the other features(?) that bot has
 
-* The bot will send a particular video when she's triggered by the word **"günaydın"** (tr. Good morning)
-* The bot will send a particular video when she's triggered by the word **"iyi geceler"** (tr. Good night)
-* The bot will present herself with command **#carpateshelp**
+* The bot will send a particular video when it's triggered by the word **"günaydın"** (tr. Good morning)
+* The bot will send a particular video when it's triggered by the word **"iyi geceler"** (tr. Good night)
+* The bot will present itself with command **#carpateshelp**
 * The bot will send a link of this repository with command **#carpateskod**
 * The bot will tag me when you ping her
 
