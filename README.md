@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tbedirhanacar/carpates-bot-web/blob/main/pfp.png"/>
+  <img src="https://github.com/tbedirhanacar/carpates-bot-web/blob/main/aaf032170c7e026d248b3b3dc61ee04a3759c1d59d3a74fa920147ee6295f02e._RI_V_TTW_.jpg"/>
 </p>
 
 # **Carpates Bot**
