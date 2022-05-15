@@ -13,7 +13,7 @@ The bot also has #carpatesflood command which makes bot send "copypasta"s. But t
 
 * The bot will send a particular video when she's triggered by the word **"günaydın"** (tr. Good morning)
 * The bot will send a particular video when she's triggered by the word **"iyi geceler"** (tr. Good night)
-* The bot will present itself with command **#carpateshelp**
+* The bot will present herself with command **#carpateshelp**
 * The bot will send a link of this repository with command **#carpateskod**
 * The bot will tag me when you ping her
 
